@@ -8,6 +8,10 @@
             "android"
         ]
     },
+    "repository": {
+      "type": "git",
+      "url": "git+https://github.com/fmendoza/cordova-plugin-browsertab.git"
+    },
     "keywords": [
         "sfsafariviewcontroller",
         "custom-tabs",
